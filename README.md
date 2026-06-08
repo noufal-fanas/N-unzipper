@@ -3,10 +3,10 @@
 <div align="center">
   <p><strong>Recursive Extraction Engine v2.0</strong></p>
   <p>
-    <img src="[https://img.shields.io/badge/Python-3.8+-blue.svg](https://img.shields.io/badge/Python-3.8+-blue.svg)" alt="Python Version">
-    <img src="[https://img.shields.io/badge/GUI-CustomTkinter-7c3aed.svg](https://img.shields.io/badge/GUI-CustomTkinter-7c3aed.svg)" alt="GUI">
-    <img src="[https://img.shields.io/badge/Platform-Linux%20%7C%20macOS%20%7C%20Windows-22c55e.svg](https://img.shields.io/badge/Platform-Linux%20%7C%20macOS%20%7C%20Windows-22c55e.svg)" alt="Platform">
-    <img src="[https://img.shields.io/badge/License-MIT-f59e0b.svg](https://img.shields.io/badge/License-MIT-f59e0b.svg)" alt="License">
+    <img src="https://img.shields.io/badge/Python-3.8+-blue.svg" alt="Python Version">
+    <img src="https://img.shields.io/badge/GUI-CustomTkinter-7c3aed.svg" alt="GUI">
+    <img src="https://img.shields.io/badge/Platform-Linux%20%7C%20macOS%20%7C%20Windows-22c55e.svg" alt="Platform">
+    <img src="https://img.shields.io/badge/License-MIT-f59e0b.svg" alt="License">
   </p>
 </div>
 
