@@ -32,7 +32,7 @@ Developed by **Noufal NS** under **Byte Craft Labs**.
 
 *(Add a screenshot of your application here by uploading an image to your repository and replacing the link below)*
 
-> `![N-UNZIPPER Screenshot](link_to_your_image.png)`
+> `![N-UNZIPPER Screenshot](https://res.cloudinary.com/dautkjemo/image/upload/v1780901527/Screenshot_2026-06-06_160812_es8sif.png)`
 
 ---
 
